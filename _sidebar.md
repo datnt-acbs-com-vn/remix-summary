@@ -1,14 +1,10 @@
-<!-- docs/_sidebar.md -->
+- Getting start
+- [About this document](/)
+- Routing
+- [Routing in remix](/routing/index)
+- Styling
+- [Styling in remix](/styling/index)
+- API
+- [Handle API in remix](/api/index)
 
-
-* [HOME](./)
-
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
-
+- [Contact](/contact/index)

@@ -1,5 +1,23 @@
-# Welcome to Docsify Page!
+# Github link
 
-This site was created using [**Docsify**](https://docsify.js.org), which is an open source documentation site generator, and imported in GitHub page. This site was created for [**Opensource.com**](https://opensource.com) demo.
+Pull this document [here](https://github.com/datntACB/remix-summary)
 
-![Welcome to Opensource.com](./images/cover.jpg)
+# How to run in localhost
+
+Firstly, install docsify
+
+```bash
+npm i docsify-cli -g
+```
+
+Then run in localhost
+
+```bash
+docsify serve
+```
+
+# Install remix
+
+```bash
+npx create-remix@latest
+```
