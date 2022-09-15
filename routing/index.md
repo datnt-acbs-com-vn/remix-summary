@@ -3,14 +3,32 @@
 Remix support built in routes using default `app` directory
 
 ```text
-app
-├── routes
-│    ├── index.tsx
-│    ├── about
-│        └── index.tsx
-├── root.tsx
-├── entry.client.tsx
-└── entry.server.tsx
+./
+├── app
+│    ├── routes
+│    │    ├── index.tsx
+│    │    └── about
+│    │        └── index.tsx
+│    ├── components
+│    ├── utils
+│    ├── api
+│    ├── root.tsx
+│    ├── entry.client.tsx
+│    └── entry.server.tsx
+├── public
+│    ├── trueidsdk
+│    ├── fonts
+│    ├── favicons
+│    ├── images
+│    ├── robots.txt
+│    └── ...
+├── styles
+│    ├── tailwind.css
+│    ├── app.css
+│    └── no-script.css
+├── types
+├── server
+└── ...
 
 ```
 

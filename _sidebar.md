@@ -1,10 +1,12 @@
 - Getting start
 - [About this document](/)
 - Routing
-- [Routing in remix](/routing/index)
+- [Routing in Remix](/routing/index)
 - Styling
-- [Styling in remix](/styling/index)
+- [Styling in Remix](/styling/index)
 - API
-- [Handle API in remix](/api/index)
+- [Handle API in Remix](/api/index)
 - Form
-- [Handle form in remix](/form/index)
+- [Handle form in Remix](/form/index)
+- Session
+- [Session in Remix](/session/index)
