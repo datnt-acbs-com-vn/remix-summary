@@ -115,3 +115,7 @@ node_modules
 
 /app/tailwind.css
 ```
+
+# UI components
+
+Using components from [this](https://remixblocks.com/)
