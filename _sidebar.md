@@ -6,5 +6,5 @@
 - [Styling in remix](/styling/index)
 - API
 - [Handle API in remix](/api/index)
-
-- [Contact](/contact/index)
+- Form
+- [Handle form in remix](/form/index)
