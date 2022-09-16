@@ -118,4 +118,4 @@ node_modules
 
 # UI components
 
-Using components from [this](https://remixblocks.com/)
+Using components from [remixblocks](https://remixblocks.com/)

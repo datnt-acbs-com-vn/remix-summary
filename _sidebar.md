@@ -10,3 +10,5 @@
 - [Handle form in Remix](/form/index)
 - Session
 - [Session in Remix](/session/index)
+- Error
+- [Error handle in Remix](/error/index)
